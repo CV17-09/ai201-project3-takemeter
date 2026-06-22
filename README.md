@@ -400,7 +400,6 @@ https://www.loom.com/share/7d763f17768d4b99b7fcd9f11414078f
 
 Potential improvements include:
 
-* Collecting substantially more real-world House of the Dragon comments
 * Reducing reliance on generated examples
 * Increasing the number of examples per category
 * Refining category definitions to reduce overlap
